@@ -1,1 +1,1 @@
-# Full-Stack-Lab
+This is a full stack web application project that allows a user to choose interior design choices. The NodeJS dependencies have not been uploaded here due to the limit imposed by GitHub on the number of files that can be uploaded.
